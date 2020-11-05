@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604585827 source:e:\student admission process system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<assert.h>
+
+1604585708 e:\student admission process system\student.h
+	<stdint.h>
+	"appconst.h"
+
+1604584715 e:\student admission process system\appconst.h
+
